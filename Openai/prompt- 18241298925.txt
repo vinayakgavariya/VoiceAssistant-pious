@@ -1,0 +1,3 @@
+OpenAI response for Prompt: Your prompt text goes here... 
+*************
+
