@@ -31,7 +31,7 @@ def chat(query):
 openai.api_key = "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"
 
 def ai(prompt):
-    openai.api_key = "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"
+    openai.api_key ""
     text = f"OpenAI response for Prompt: {prompt} \n *************************\n\n"
 
     response = openai.Completion.create(
