@@ -28,7 +28,7 @@ def chat(query):
     chatStr += f"{response['choices'][0]['text']}\n"
     return response["choices"][0]["text"]
 
-openai.api_key = "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"
+openai.api_key = ""
 
 def ai(prompt):
     openai.api_key ""
